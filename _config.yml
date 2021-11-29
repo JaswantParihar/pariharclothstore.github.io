@@ -1,4 +1,6 @@
-document.write( '\n' );
+<script type="text/javascript">
+<!--
+
 document.write( '<div class=\"line\"></div>\n' );
 document.write( '<div class=\"wrapper\">\n' );
 document.write( '  <header role=\"banner\">\n' );
@@ -132,3 +134,5 @@ document.write( '  <p class=\"copy\">© Alex Devero Design 2014</p>\n' );
 document.write( '</footer>\n' );
 document.write( '<div class=\"line\"></div>' );
 
+//-->
+</script>
