@@ -15,7 +15,7 @@
   <main role="main">
     <section class="sec-intro" role="section">
       <img src="https://www.techweekeurope.co.uk/wp-content/uploads/2012/07/wifimountaindownload.jpg" alt="" />
-      <h1>Be fashnable!</h1>
+      <h1>Be fashionable!</h1>
     </section>
     <section class="sec-boxes" role="section">
       <adrticle class="box">
