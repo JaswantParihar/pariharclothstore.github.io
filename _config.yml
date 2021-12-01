@@ -70,7 +70,7 @@ document.write( '      <li><a href=\"#\">Technologies</a></li>\n' );
 document.write( '      <li><a href=\"#\">Projects</a></li>\n' );
 document.write( '      <li><a href=\"#\">Contacts</a></li>\n' );
 document.write( '    </ul>\n' );
-document.write( '</footer>\n' );
+
 document.write( '<div class=\"line\"></div>' );
 
 //-->
