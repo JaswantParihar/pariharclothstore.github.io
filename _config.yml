@@ -136,3 +136,5 @@ document.write( '<div class=\"line\"></div>' );
 
 //-->
 </script>
+
+theme: jekyll-theme-minimal
